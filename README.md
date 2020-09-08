@@ -24,4 +24,4 @@ a comma separated file containing the description of the genetic mutations used 
 a double pipe (||) delimited file that contains the clinical evidence (text) used to classify genetic mutations. Fields are ID (the id of the row used to link the clinical evidence to the genetic mutation), Text (the clinical evidence used to classify the genetic mutation)
 
 you can download training_variants.zip and training_text.zip from:
-https://www.kaggle.com/c/msk-redefining-cancer-treatment-data
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
